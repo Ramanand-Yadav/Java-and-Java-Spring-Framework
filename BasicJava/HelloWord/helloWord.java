@@ -1,4 +1,4 @@
-package BasicJava;
+package BasicJava.HelloWord;
 
 public class helloWord{
     public static void main(String[] args) {
