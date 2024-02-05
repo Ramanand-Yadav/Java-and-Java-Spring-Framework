@@ -1,3 +1,4 @@
+
 import java.sql.*;
 public class Main {
     public static void main(String[] args) throws Exception{
@@ -9,7 +10,7 @@ public class Main {
         create statement
         execute statement
         process the result
-        close
+        closer
          */
         String url = "jdbc:postgresql://localhost:5432/Demo";
         String uname = "postgres";
